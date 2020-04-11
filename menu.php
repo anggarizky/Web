@@ -8,8 +8,8 @@
 <body>
 <a href="index.php">Home</a> |
 <a href="about.php">About Us</a> |
-<a href="Link.php">Link</a> |
-<a href="Contact.php">Contack</a> |
+<a href="link.php">Link</a> |
+<a href="contact.php">Contact</a> |
 <a href="new.php">NEW Menu</a> |
 </body>
 </html>
